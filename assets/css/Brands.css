@@ -6,7 +6,7 @@
 .brands a {
   display: block;
   text-align: center;
-  padding: 40px 0;
+  padding: 38px 0;
 }
 
 @media (max-width:767px) {
